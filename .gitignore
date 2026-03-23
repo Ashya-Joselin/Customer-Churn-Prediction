@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data/*.csv
+
+# Models
+models/*.pkl
+models/*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
